@@ -1,0 +1,6 @@
+@getenemy 'murderer' 'enemy' 'criminal' 'gray' 'closest'
+if @findobject 'enemy'
+  @attack 'enemy'
+   pause 350
+endif
+ pause 350
